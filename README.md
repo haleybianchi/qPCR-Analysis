@@ -1,2 +1,2 @@
 # qPCR-Analysis
-Python Jupytr notebook that processes a csv file of qPCR data
+Python Jupytr notebooks that process a csv file of qPCR data
